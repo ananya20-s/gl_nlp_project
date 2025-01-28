@@ -39,4 +39,4 @@ The new articles dataset with sentiment labels is provided as part of the course
 ### Next Steps
 
  - For Sentiment Analysis, Model performance is satisfactory but can be improved by training the classifier on a larger dataset
- - For Text Summarization, can experiment with other HuggingFace models (BERT/LLama, etc
+ - For Text Summarization, can experiment with other HuggingFace models (BERT/LLama, etc)
